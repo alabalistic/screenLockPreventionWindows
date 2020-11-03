@@ -30,4 +30,5 @@ for ($i = 0; $i -lt $minutes; $i++) {
   Start-Sleep -Seconds 0.1			# Wait 0.1 seconds 
   $myshell.sendkeys("{NUMLOCK}")		# Simulate Numlock press, to preserve the state of the kayboard.
 }
-```
+
+``````

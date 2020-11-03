@@ -1,7 +1,6 @@
 # This script runs with user privileges from C:\screensaver
-# Purpous of the script is to prevent the computer to lock the screen, witch mess up the network and graphics of the computer.
-# Seetec Cayuga our  video survaliance sydtem, hate the lock screen and screensaver.
-# Please be aware that there is no harm intention in the creation of this script. 02.11.2020  
+# Purpous of the script is to prevent the computer to lock the screen.
+# Please be aware that there is no harm intention in the creation of this script 
 
 param($minutes = 51) 				# This is how many times the for loop will run. 12 hours / 14 minutes. After 12 hours the desktop will lock itself.
 

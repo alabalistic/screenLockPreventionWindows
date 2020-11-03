@@ -13,10 +13,10 @@ current script runs about 12 Hrs, 51 times 840 sec. you can change this setting 
 
 # This is the complete script.
 
-# This script runs with user privileges from C:\screensaver
-# Purpous of the script is to prevent the computer to lock the screen.
-# Please be aware that there is no harm intention in the creation of this script.
-# Never use code from the internet if you don'understand what the code do.
+### This script runs with user privileges from C:\screensaver
+### Purpous of the script is to prevent the computer to lock the screen.
+### Please be aware that there is no harm intention in the creation of this script.
+### Never use code from the internet if you don'understand what the code do.
 
 param($minutes = 51) 				# This is how many times the for loop will run. 12 hours / 14 minutes. After 12 hours the desktop will lock itself.
 

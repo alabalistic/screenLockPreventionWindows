@@ -1,4 +1,4 @@
-# screenLockPreventionWindows
+# ScreenLockPreventionWindows
 Powershell script to prevent the screen lock, usefull in corporate setup with strict rules.
 
 By simulating 2 times keypress on the numlock the PC stay awake for 12 hour
